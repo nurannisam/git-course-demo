@@ -1,3 +1,3 @@
 print('hello')
 
-print('apa kabar')
+print('apa kabar kalian')
